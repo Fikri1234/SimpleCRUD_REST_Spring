@@ -4,4 +4,5 @@ https://github.com/Fikri1234/SimpleCRUD_REST_Spring/blob/master/src/main/resourc
 
 You can change user & pass with your configuration
 
-And you don't have to run .sql file because it was handled by liquibase.
+And you don't have to run .sql file because it was doing by liquibase.
+Let's liquibase handled it.
